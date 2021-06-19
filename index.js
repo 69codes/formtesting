@@ -1,3 +1,6 @@
+// Taiwo Yusuf just trying to play around with some basic stuufs..... 
+// DOM Content Loaded is an important event listener, as it enables you put the script tag either
+// at the top or at the bottom withouut having to worry about, the script loading befor the DOM
 document.addEventListener('DOMContentLoaded', () => {
 const form = document.getElementById('registrar')
 const input = form.querySelector('input')
