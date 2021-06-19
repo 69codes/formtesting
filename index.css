@@ -1,0 +1,11 @@
+li {
+    color: red;
+    display: flex;
+    flex-direction: column;
+
+}
+label {
+    color: blue;
+;
+}
+
